@@ -1,0 +1,80 @@
+c:\users\mfple\documents\visual studio 2017\Projects\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.exe.config
+c:\users\mfple\documents\visual studio 2017\Projects\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.exe
+c:\users\mfple\documents\visual studio 2017\Projects\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.pdb
+c:\users\mfple\documents\visual studio 2017\Projects\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\MySql.Data.dll
+c:\users\mfple\documents\visual studio 2017\Projects\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\MySql.Data.xml
+c:\users\mfple\documents\visual studio 2017\Projects\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csprojResolveAssemblyReference.cache
+c:\users\mfple\documents\visual studio 2017\Projects\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Form1.resources
+c:\users\mfple\documents\visual studio 2017\Projects\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Properties.Resources.resources
+c:\users\mfple\documents\visual studio 2017\Projects\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.GenerateResource.Cache
+c:\users\mfple\documents\visual studio 2017\Projects\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.exe
+c:\users\mfple\documents\visual studio 2017\Projects\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.exe.config
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\MySql.Data.dll
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\MySql.Data.xml
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csprojResolveAssemblyReference.cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Form1.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Properties.Resources.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.GenerateResource.Cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Form2.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.exe.config
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\MySql.Data.xml
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csprojAssemblyReference.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Form1.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Form2.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Properties.Resources.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.GenerateResource.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.CoreCompileInputs.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.CopyComplete
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.exe.config
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\MySql.Data.xml
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csprojAssemblyReference.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Form1.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Form2.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Properties.Resources.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.GenerateResource.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.CoreCompileInputs.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.CopyComplete
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.exe.config
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\MySql.Data.xml
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.AssemblyReference.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Form1.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Form2.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Properties.Resources.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.GenerateResource.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.CoreCompileInputs.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.CopyComplete
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.pdb
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.exe.config
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.exe
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\ProcessaBDCongresso.pdb
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.AssemblyReference.cache
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Form1.resources
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Form2.resources
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.Properties.Resources.resources
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.GenerateResource.cache
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.CoreCompileInputs.cache
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.csproj.CopyComplete
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.exe
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\obj\Debug\ProcessaBDCongresso.pdb
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\MySql.Data.dll
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\MySql.Web.dll
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\System.Memory.dll
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\System.Numerics.Vectors.dll
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\ProcessaBDCongresso\ProcessaBDCongresso\bin\Debug\System.Buffers.dll

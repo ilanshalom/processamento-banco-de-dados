@@ -1,0 +1,140 @@
+c:\users\mfpledon\documents\visual studio 2013\Projects\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe.config
+c:\users\mfpledon\documents\visual studio 2013\Projects\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe
+c:\users\mfpledon\documents\visual studio 2013\Projects\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.pdb
+c:\users\mfpledon\documents\visual studio 2013\Projects\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form1.resources
+c:\users\mfpledon\documents\visual studio 2013\Projects\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Properties.Resources.resources
+c:\users\mfpledon\documents\visual studio 2013\Projects\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.GenerateResource.Cache
+c:\users\mfpledon\documents\visual studio 2013\Projects\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.exe
+c:\users\mfpledon\documents\visual studio 2013\Projects\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.pdb
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csprojResolveAssemblyReference.cache
+T:\Aula 04 - TE\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe.config
+T:\Aula 04 - TE\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.exe
+T:\Aula 04 - TE\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.pdb
+T:\Aula 04 - TE\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csprojResolveAssemblyReference.cache
+T:\Aula 04 - TE\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form1.resources
+T:\Aula 04 - TE\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Properties.Resources.resources
+T:\Aula 04 - TE\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.GenerateResource.Cache
+T:\Aula 04 - TE\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe
+T:\Aula 04 - TE\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.pdb
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\MySql.Data.dll
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form2.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csprojResolveAssemblyReference.cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form1.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form2.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Properties.Resources.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.GenerateResource.Cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe.config
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\MySql.Data.dll
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\MySql.Data.xml
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csprojResolveAssemblyReference.cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form1.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form2.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Properties.Resources.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.GenerateResource.Cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe.config
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\MySql.Data.dll
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL\EscolaBDMySQL\bin\Debug\MySql.Data.xml
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csprojResolveAssemblyReference.cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form1.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Properties.Resources.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.GenerateResource.Cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe.config
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\bin\Debug\MySql.Data.dll
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\Aula 05 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\bin\Debug\MySql.Data.xml
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe.config
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\bin\Debug\MySql.Data.xml
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csprojAssemblyReference.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form1.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Properties.Resources.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.GenerateResource.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.CoreCompileInputs.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.CopyComplete
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05.1 - TE - 2017 - BD 1\EscolaBDMySQL2017\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe.config
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form1.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Properties.Resources.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.GenerateResource.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.CoreCompileInputs.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.CopyComplete
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.CadastroDeCurso.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csprojAssemblyReference.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe.config
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.AssemblyReference.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.CadastroDeCurso.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form1.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Properties.Resources.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.GenerateResource.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.CoreCompileInputs.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.CopyComplete
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2019\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe.config
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.AssemblyReference.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.CadastroDeCurso.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form1.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Properties.Resources.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.GenerateResource.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.CoreCompileInputs.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.CopyComplete
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 05 - TE - 2019 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe.config
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.AssemblyReference.cache
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.SuggestedBindingRedirects.cache
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.CadastroDeCurso.resources
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form1.resources
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Properties.Resources.resources
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.GenerateResource.cache
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.CoreCompileInputs.cache
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.CopyComplete
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.exe
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\MySql.Data.dll
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\System.Memory.dll
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\System.Buffers.dll
+C:\D\Aulas      -     2023-2\TE\Aula 05 - TE - 2021 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\MySql.Web.dll
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe.config
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.exe
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\EscolaBDMySQL.pdb
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\MySql.Data.dll
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\MySql.Web.dll
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\System.Memory.dll
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\System.Numerics.Vectors.dll
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\bin\Debug\System.Buffers.dll
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.AssemblyReference.cache
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.CadastroDeCurso.resources
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Form1.resources
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.Properties.Resources.resources
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.GenerateResource.cache
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.CoreCompileInputs.cache
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.csproj.CopyComplete
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.exe
+C:\D\Aulas20232\TE\Aula 05 - TE - 2023 - BD 1\EscolaBDMySQL2021\EscolaBDMySQL\obj\Debug\EscolaBDMySQL.pdb
